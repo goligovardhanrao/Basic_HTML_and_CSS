@@ -1,0 +1,14 @@
+p {
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 20px;
+    text-align: center;
+}
+
+p1 {
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px gray;
+}
